@@ -16,6 +16,7 @@ function App() {
 <Card/>
 <Card/>
 <Card/>
+<br></br>
 <br />
 <Button/>
 <Footer/>
